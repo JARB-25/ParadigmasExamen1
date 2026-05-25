@@ -20,7 +20,6 @@ public abstract class ExamenMedico implements Serializable{
 		return codigoExamen;
 	}
 	
-
 	public void setCodigoExamen(String codigoExamen) {
 		this.codigoExamen = codigoExamen;
 	}
